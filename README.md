@@ -1,3 +1,6 @@
+### Data Updated
+This file is modified for github course on 8th Nov. 2020(20201108).
+
 ### Date created
 2020-10-18 (18 Oct 2020)
 The last file of bikeshare.py file is created on 21 Sep 2020.
