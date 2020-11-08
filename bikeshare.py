@@ -1,4 +1,8 @@
 # bikeshare.py
+"""
+This file is modified for git hub project.
+"""
+
 import time
 import pandas as pd
 import numpy as np
