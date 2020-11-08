@@ -163,7 +163,7 @@ def station_stats(df):
     mst_cm_start_to_end_station_count2 = df.groupby(['Start Station', 'End Station'])['Start Station'].count().max()
 
 
-    print("'Start Station'                                      'End station' \n{}. Count : {}".format(mst_cm_start_to_end_station_name2, mst_cm_start_to_end_station_count2))
+    print("'Start Station' & 'End station' \n{}. Count : {}".format(mst_cm_start_to_end_station_name2, mst_cm_start_to_end_station_count2))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
