@@ -10,7 +10,7 @@ Bikeshare project with GitBash
 
 ### Description
 (Describe what your project is about and what it does)
-My project is to show the statistical data of Bikeshare project in 3 cities: Chicago, New York city, washington
+My project is to show the statistical data of Bikeshare project in 3 cities: Chicago, New York city, Washington
 
 To realize this
 1. Reading ".csv" files from the folder
