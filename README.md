@@ -7,6 +7,7 @@ The last file of bikeshare.py file is created on 21 Sep 2020.
 
 ### Project Title
 Bikeshare project with GitBash
+This is 3rd challenge of gitBash project.
 
 ### Description
 (Describe what your project is about and what it does)
