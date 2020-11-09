@@ -201,7 +201,7 @@ def trip_duration_stats(df):
 def convert(seconds):
     days = seconds // (24 * 3600)   # quotient
     seconds = seconds % (24 * 3600) # reminder
-    hours = seconds // 3600
+    hours = seconds // 3600 # 60 min * 60 seconds
     seconds %= 3600
     minutes = seconds // 60
     seconds %= 60
@@ -266,7 +266,7 @@ def main():
         df = load_data(city, month, day)
 
         # To check the contents of df
-        #print(df)
+        # print(df)
 
         time_stats(df)
         station_stats(df)
