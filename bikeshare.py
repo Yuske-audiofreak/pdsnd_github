@@ -264,7 +264,7 @@ def main():
         df = load_data(city, month, day)
 
         # To check the contents of df
-        #print(df)
+        # print(df)
 
         time_stats(df)
         station_stats(df)
