@@ -199,7 +199,7 @@ def trip_duration_stats(df):
 def convert(seconds):
     days = seconds // (24 * 3600)   # quotient
     seconds = seconds % (24 * 3600) # reminder
-    hours = seconds // 3600
+    hours = seconds // 3600 # 60 min * 60 seconds
     seconds %= 3600
     minutes = seconds // 60
     seconds %= 60
