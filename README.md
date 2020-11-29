@@ -37,14 +37,14 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Udacity followed by
 
 
-datetime --- 基本的な日付型および時間型
-https://docs.python.org/ja/3/library/datetime.html
+*datetime --- 基本的な日付型および時間型
+  https://docs.python.org/ja/3/library/datetime.html
 
-pandasのDataFrameから期間を範囲指定して抽出する
-https://qiita.com/mSpring/items/6ec1ab28dcb261db2c73
+*pandasのDataFrameから期間を範囲指定して抽出する
+  https://qiita.com/mSpring/items/6ec1ab28dcb261db2c73
 
-Stackoverflow
-https://stackoverflow.com/questions/10464063/python-is-it-possible-to-split-sentence-into-two-line
+*Stackoverflow
+  - https://stackoverflow.com/questions/10464063/python-is-it-possible-to-split-sentence-into-two-line
 
 python_analytics
 https://python-analytics.hatenadiary.jp/entry/2018/04/30/160107
